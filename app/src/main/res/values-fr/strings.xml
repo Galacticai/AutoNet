@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_description">Grâce à la puissance de root, AutoNet peut activer et désactiver le partage de connexion USB sur les appareils modernes.</string>
+    <string name="enable_service">Activer le service</string>
+    <string name="service_status_label_enabled">Le partage de connexion sera automatiquement activé lorsque l’USB est connecté.</string>
+    <string name="service_status_label_disabled">Rien ne se passera lorsque l\'USB est connecté.</string>
+    <string name="service_status_title">État du service:</string>
+    <string name="battery_optimization_warning">L\'optimisation de la batterie pourrait empêcher AutoNet de s\'exécuter en arrière-plan. Veuillez le désactiver si vous souhaitez vivre une expérience complète.</string>
+    <string name="ok">D\'accord</string>
+    <string name="starting_service">Démarrage du service…</string>
+    <string name="enabling_usb_tethering">Activation du partage de connexion USB…</string>
+    <string name="service">service</string>
+    <string name="enable_notification">Activer les notifications?</string>
+    <string name="notification_dialog_text">La notification persistante garantit qu\'AutoNet ne sera pas tué par le système</string>
+    <string name="battery_optimization_detected">Optimisation de la batterie détectée!</string>
+    <string name="not_recommended">non recommandé</string>
+    <string name="skip">Passer</string>
+    <string name="enable">Activer</string>
+    <string name="root_required">Racine requise</string>
+    <string name="root_dialog_text">Root est requis pour activer automatiquement le partage de connexion USB.</string>
+
+</resources>

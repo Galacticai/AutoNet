@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_service">تفعيل الخدمة</string>
+    <string name="app_description">بفضل قوة الروت، يمكن لـ AutoNet تفعيل وتعطيل مشاركة الانترنت عبر USB على الأجهزة الحديثة.</string>
+    <string name="service_status_label_enabled">سيتم تفعيل مشاركة الإنترنت تلقائيا عند توصيل USB.</string>
+    <string name="service_status_label_disabled">لن يحصل شيء عند توصيل USB.</string>
+    <string name="service_status_title">حالة الخدمة:</string>
+    <string name="battery_optimization_warning">قد يؤدي تحسين البطارية إلى منع تشغيل AutoNet في الخلفية. يرجى تعطيل التحسين إذا كنت تريد الميزات الكاملة.</string>
+    <string name="ok">حسناً</string>
+    <string name="service">الخدمة</string>
+    <string name="starting_service">يتم تفعيل الخدمة…</string>
+    <string name="enable_notification">تفعيل الإشعار؟</string>
+    <string name="notification_dialog_text">الإشعار المستمر سيأكد عدم إنهاء AutoNet من قبل النظام</string>
+    <string name="battery_optimization_detected">تم اكتشاف تحسين البطارية!</string>
+    <string name="skip">تخطي</string>
+    <string name="not_recommended">غير مستحسن</string>
+    <string name="enabling_usb_tethering">يتم تفعيل مشاركة الإنترنت عبر USB…</string>
+    <string name="root_required">الروت مطلوب</string>
+    <string name="enable">تفعيل</string>
+    <string name="root_dialog_text">الروت مطلوب لتفعيل مشاركة الإنترنت عبر USB تلقائيًا.</string>
+</resources>

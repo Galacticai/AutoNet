@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_description">借助root权限，AutoNet可以在现代设备上启用和禁用USB网络共享。</string>
+    <string name="enable_service">启用服务</string>
+    <string name="service_status_label_enabled">连接 USB 后，网络共享将自动启用。</string>
+    <string name="service_status_label_disabled">连接 USB 后不会发生任何事情。</string>
+    <string name="service_status_title">服务状态：</string>
+    <string name="battery_optimization_warning">电池优化可以防止 AutoNet 在后台运行。如果您想要完整的体验，请禁用它。</string>
+    <string name="ok">好的</string>
+    <string name="starting_service">开始服务。。。</string>
+    <string name="enabling_usb_tethering">启用 USB 网络共享。。。</string>
+    <string name="service">服务</string>
+    <string name="enable_notification">启用通知？</string>
+    <string name="notification_dialog_text">持久通知确保 AutoNet 不会被系统杀死</string>
+    <string name="battery_optimization_detected">检测到电池优化！</string>
+    <string name="not_recommended">不推荐</string>
+    <string name="skip">跳过</string>
+    <string name="enable">使能够</string>
+    <string name="root_required">需要root权限</string>
+    <string name="root_dialog_text">需要 Root 才能自动启用 USB 网络共享。</string>
+
+</resources>
